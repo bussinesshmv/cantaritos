@@ -1,0 +1,28 @@
+<!DOCTYPE html lang="es">
+    <head>
+        <title>F5</title>
+    </head>
+    <body>
+        <h1>Bloquear F5</h1>
+        <a href="index.html">index</a>
+        <script>
+            window.addEventListener('beforeunload', function(event) {
+                event.preventDefault();
+               // Esto solo se ve en navegadores antiguos, los modernos presentan un mensaje generico
+                event.returnValue = 'No es viable actualizar'; 
+            });
+            document.addEventListener('contextmenu', function(e) {
+                alert('Acción no permitida');
+                e.preventDefault();
+            });
+
+/*            document.addEventListener('keydown', function(event) {
+            // Verifica si la tecla presionada es F5 (código 116)
+            if (event.keyCode === 116) {
+                event.preventDefault();
+                alert("La tecla F5 está bloqueada");
+            }
+            });*/
+        </script>
+    </body>
+</html>

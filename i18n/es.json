@@ -1,5 +1,5 @@
 {
-  "header_phone": "+1 123 566 789 789",
+  "header_phone": "+1 647-350-5355",
   "header_open_time": "Mon-Sat: 11AM - 23PM",
   "header_title": "Cantaritos",
   "menu_home": "Inicio",
@@ -66,7 +66,8 @@
   "contact_email_title": "Correo:",
   "contact_email": "contacto@cantaritos.ca",
   "contact_phone_title": "Llamanos:",
-  "contact_phone": "+1123 123 123",
+  "contact_phone": "+1 647-350-5355",
+  "contact_phone2": "+1 647-350-5355",
   "footer_useful_links": "Enlaces de interés",
   "footer_useful_links_home": "Inicio",
   "footer_useful_links_about": "Nosotros",
