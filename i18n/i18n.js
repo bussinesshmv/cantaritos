@@ -1,7 +1,7 @@
 function switchLanguage(language) {
   $.ajax({
         url:"https://bussinesshmv.github.io/cantaritos/i18n/"+language+".json",
-       // url: "../i18n/" + language + ".json",
+       //url: "../i18n/" + language + ".json",
         dataType: "json",
         type: "get",
     }).done(function (data) {
@@ -22,4 +22,4 @@ function processLangDocument() {
     });
 }
 
-switchLanguage("es");
+switchLanguage("en");
