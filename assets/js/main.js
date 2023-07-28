@@ -199,6 +199,8 @@
           AOS.refresh()
         });
       }, true);
+
+      $("#initMenuFilter").click();
     }
 
   });

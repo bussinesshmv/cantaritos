@@ -13,7 +13,7 @@
   "menu_lang_fr": "Français",
   "menu_book_table": "Réserver une table",
   "hero_welcome": "Bienvenue chez <span>Cantaritos</span>",
-  "hero_slogan": "Délicieuse saveur mexicaine au Canada, goûtez la passion authentique !",
+  "hero_slogan": "Authentique cuisine mexicaine de notre cœur à votre table !",
   "hero_our_menu": "Notre Menu",
   "hero_book_table": "Réserver une table",
   "about_title": "Bienvenue chez Cantaritos !",
@@ -78,5 +78,13 @@
   "footer_our_services": "Nos services",
   "footer_our_services_menu": "Menu",
   "footer_our_services_events": "Événements",
-  "footer_other_links": "Autres liens"
+  "footer_other_links": "Autres liens",
+  "history_title":"Historia",
+  "history_subtitle":"Conoce la tradición",
+  "history1_title":"El Nacimiento del Guacamole Azteca",
+  "history1_content":"Hace siglos, en las antiguas tierras aztecas, un humilde chef azteca descubrió un fruto verde y cremoso que crecía en los árboles de su tierra. Con habilidad y curiosidad, mezcló este fruto con cebolla, tomate, cilantro y limón, creando una mezcla celestial que deleitó a los paladares de los nobles y campesinos por igual. Así nació el 'Guacamole Azteca', un platillo que se convirtió en un símbolo de la riqueza de la tierra y la herencia culinaria de México. Hoy en día, el Guacamole Azteca se sirve con orgullo en 'La Hacienda Mexicana', un restaurante que rinde homenaje a las tradiciones culinarias de la antigua civilización azteca y ofrece este manjar verde que conquista corazones en todo el mundo.",
+  "history2_title":"El Misterio de los Tamales Mayas",
+  "history2_content":"Hace siglos, en las misteriosas tierras mayas, un grupo de mujeres mayas se reunía en la cocina comunitaria para preparar una deliciosa y sagrada comida: los tamales. Siguiendo las tradiciones ancestrales, molían maíz y lo mezclaban con carne, chiles y especias, envolviendo el resultado en hojas de plátano para cocinarlo al vapor. Cuentan las leyendas que los tamales mayas poseían poderes mágicos que otorgaban sabiduría y protección a quienes los consumían. En 'La Cocina Maya', un restaurante que celebra las raíces mayas de la gastronomía mexicana, los tamales siguen siendo preparados con la misma devoción y misterio, manteniendo viva la esencia de esta ancestral tradición que cautiva los sentidos y enriquece el alma.",
+  "history3_title":"El Fuego del Chiles en Nogada Colonial",
+  "history3_content":"Durante el periodo colonial en México, un grupo de monjas de Puebla preparaba con esmero un platillo único y exquisito para celebrar la independencia del país. Tomaron chiles poblanos, rellenos de una deliciosa mezcla de carne de res y cerdo, frutas y especias, y los cubrieron con una exquisita salsa de nuez. Luego, decoraron los chiles con granada y perejil para representar los colores de la bandera mexicana. Así nació el 'Chiles en Nogada', un platillo que se convirtió en un símbolo de orgullo nacional y que se sirve con elegancia en 'El Patio Colonial', un restaurante que honra la riqueza de la época colonial y lleva a los comensales en un viaje gastronómico por la historia de México a través de sus sabores y tradiciones culinarias."
 }
